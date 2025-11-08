@@ -15,7 +15,7 @@ Então, agora, em vez de precisar chegar a uma verificação e um acordo entre d
 
 🔹  A Solução para o problema dos generais bizantinos não é simples de forma alguma. Envolve criptografia, trabalho pesado de computação e comunicação entre os nós (gerais) para verificar amensagem;
 
-![alt text](image.png)
+![nos](img/nos.png)
 
 🔹 E esse é o problema dos generaiz bizantinos e Satosh Nakamoto conseguiu resolver isso.
 
