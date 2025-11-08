@@ -58,7 +58,7 @@ Qualquer desenvolvedor pode criar um contrato inteligente.
 
 - **Sem intemediários**, a rede descentralizada da Ethereum permite que os usuários ???  para trás intermediários.
 
-
+---
 ### 🔷 CONCLUSÃO
 A Ethereum foi dada como segunda geração das blockchain após o Bitcoin.
 
