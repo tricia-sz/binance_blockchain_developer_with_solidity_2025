@@ -1,4 +1,8 @@
 # 🔺 Trilema Blockchain
+
+## Introdução
+Blockchain são frequentemente reforçados a fazer trade-offs (escolher uma coisa em detrimento de outra) que os impedem de alcaçar todos os 3 aspectos de uma blockchain:
+
 * Esabilidade
 * Segurança
 * Descentralização
