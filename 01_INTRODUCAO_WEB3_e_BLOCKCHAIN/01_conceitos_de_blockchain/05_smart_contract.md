@@ -27,16 +27,16 @@
 🔹A diferença é que um contrato inteligente é um **código autoexecutavel  que cumpre os termos do contrato**.
 
 ## 💠  BLOCKCHAIN QUE SUPORTAM CONTRATOS INTELIGENTES
- Ethereum\
- Solana\
- Polkadot\
- Cardano\
- Avalanche\
- Cosmos\
- Algorand\
- Elrond\
- Ergo\
- Tron
+  Ethereum\
+  Solana\
+  Polkadot\
+  Cardano\
+  Avalanche\
+  Cosmos\
+  Algorand\
+  Elrond\
+  Ergo\
+  Tron
 
 ## 💠  O QUE PODEMOS CRIAR COM  CONTRATOS INTELIGENTES? dApps (Aplicação Descentralizada)
 - Tockens
