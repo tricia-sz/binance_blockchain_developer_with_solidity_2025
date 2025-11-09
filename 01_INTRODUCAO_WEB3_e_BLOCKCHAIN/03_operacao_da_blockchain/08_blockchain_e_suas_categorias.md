@@ -23,4 +23,3 @@
   - Privacidade parcial
   - Tokens próprios
   Tokens ==> Função na rede   | Nodes Emissores
-
