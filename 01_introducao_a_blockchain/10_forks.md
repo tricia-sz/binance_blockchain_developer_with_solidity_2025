@@ -1,16 +1,16 @@
-# FORKS
+# 🔀FORKS
  Em engenharia de software, uma bifurcação ou uma ramificação (em inglês: fork) acontece quando um desenvolvedor (ou um grupo de devs) inicia um projeto independentemente com base no código de um projeto com base no outro, já existente, sem a descontinuidade deste último."
 
-## FORK NA BLOCK CHAIN
+## 🔀 FORK NA BLOCK CHAIN
   E como faz isso na blockchain?
   Baseado no conceso. Ou seja, a aceitacao de todos do grupo.
   Os códigos das blockchains podem ver uma falha ou uma melhoria e seguir para para comunidade a correção.
   Dependndo do consenso vemos um soft fork ou um hard sof.
 
-## SOFT FORK
+## 🟢 SOFT FORK
   Chegamos a um conseso, TODOS concordam e vamos aatualizar a aplicalção, são coisas mais tranquilas mais operacionais.
 
-## HARD SOFT
+## 🔴 HARD SOFT
   Quando normalmente os devs tem atualizações em um nível de programação mais densa e para fazer essa atualização bifurca a rede.
   Uma blockchain se transforma em duas sequências.
 
