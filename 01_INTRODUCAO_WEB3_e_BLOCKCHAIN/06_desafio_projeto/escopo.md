@@ -77,3 +77,37 @@ console.log("Seed:", mnemonic);
 ```
 ## ao executar o teste
 ![gerando a carteira localmente](img/gerandocarteira.png)
+
+## ✳️ IMPORTAR CHAVE PRIVADA PARA DENTRO DE UM SOFTWARE GERADOR DE CARTEIRA - ELECTRUM PARA FINALIZAR A TRANSACAO
+  - Site: https://electrum.org
+  
+## ✳️ Realizando a instalaçao do flatpack no archlinx
+  - Você pode considerar instalar direto pelo AUR, mas realizaremos instalando e habilitando os flatpack direto no flathub
+  - Site: https://flathub.org/en/apps/org.electrum.electrum
+  - Manual Install Make sure you follow the setup guide for your Linux distribution before installing
+    
+      ```
+
+        flatpak install flathub org.electrum.electrum
+
+        //run
+        flatpak run org.electrum.electrum
+
+      ```
+
+## APÓS INSTALAÇÃO DO ELECTUM - config
+ Keywords:
+ ```
+easily enhance tiny broccoli will web planet fence trip special kite wrist
+ ```
+### IMPORTAR CARTEIRA GERADA
+
+- No site BTC, no TESTENET
+  https://www.blockchain.com/pt/explorer/addresses/btc-testnet/mttNKXDoScwEXYiasu3DPWkY1722WGcoJr
+
+  ![btc test net](img/btc-testnet.png)
+
+## ACESSANDO O BITCOIN FALCET
+- Cripto que nao tem nenhum valor
+- BitcoinTestNet Facucet:[//freebitco.in/site/bitcoin-faucet](https://bitcoinfaucet.uo1.net/)
+
