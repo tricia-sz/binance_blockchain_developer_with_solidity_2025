@@ -76,4 +76,4 @@ console.log("Chave Privada:", node.toWIF());//formata chave
 console.log("Seed:", mnemonic);
 ```
 ## ao executar o teste
-![gerando a carteira localmente](../btcwallet/src/img/gerandocarteira.png)
+![gerando a carteira localmente](img/gerandocarteira.png)
