@@ -19,3 +19,10 @@
 ## ✳️ ESTRUTURA DO DESAFIO
   - Node Js
   - Electrum
+
+## PASSO A PASSO:
+  ## Iniciando server node
+`npm init -y`
+
+  ## Instalando libs necessárias
+  `npm install bip39 bip32@2.0.6 bitcoinjs-lib --save`
