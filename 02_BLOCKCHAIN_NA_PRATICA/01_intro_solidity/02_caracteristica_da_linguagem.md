@@ -32,7 +32,7 @@
   🔹Um Smart Contract baseado em solidity é uma coleção de **funções** e **dados**, e está registrado em um endereço na blockchain do Ethereum.
 
 ## Exemplo de contrato
-```
+```js
   pragma solidit ^0.5.0;
   contract SolidityTest {
     constructor() public {

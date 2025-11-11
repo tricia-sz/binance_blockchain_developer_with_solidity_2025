@@ -73,7 +73,7 @@
   🔹 Vejamos abaixo os exemplos mais utilizados
 
   Nome
-```
+```js
   blockhash(unit blockNumber) returns (bytes32)
   block.coinbase(address payable)
   block.difficulty(unit)
