@@ -21,8 +21,29 @@
 
 ![network2](img/createnw02.png)
 
-### Dê um nome a rede, ao simbolodo da rede e no IP, cole a chave local do ganash.
+# 💠 Dê um nome a rede, ao simbolodo da rede e no IP, cole a chave local do ganash.
 Corrigindo, no RPC SERVER, cole o endereço do ganash
 HTTP://127.0.0.1:7545
+
+Simulação de criação de rede:
+![dados da rede](img/namentw.png)
+```js
+
+  Nome da rede (token):
+  TricIA
+
+  URL RPC padrao: (RTC do ganash local)
+  HTTP://127.0.0.1:7545
+
+  ID da cadeira:
+  1337
+  
+  Simbolo da moeda:
+  TricIA
+```
+
+[salvar]
+
+![alt text](image.png)
 
 ## Após isso, só realizar conexão com a IDE Remix
