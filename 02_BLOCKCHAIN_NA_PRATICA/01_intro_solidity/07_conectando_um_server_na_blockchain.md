@@ -44,6 +44,6 @@ Simulação de criação de rede:
 
 [salvar]
 
-![alt text](image.png)
+![token criado TricIA](img/tokencreate.png)
 
 ## Após isso, só realizar conexão com a IDE Remix
