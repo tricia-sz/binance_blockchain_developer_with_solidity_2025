@@ -8,8 +8,8 @@
 ## 💠 Momento Ulha 👀:
   ###  🔹Está sendo legal praticar  solidity e MD (Markdown). Já que 98% dos LLMS são apenas aquivos md o qual as aPIs / websockets fazem leitura,interpretação e iteração. (fonte: vozes da minha cabeça) -- Verificar info depois.
 
-## 💠 PS: Tentar usar em futuro projetinho.
-  ### 🔹 Transcrição de docs do meu git por IA. Como farei para encaixar blockchain nisso, ainda não faço ideia. (Posso só redirecionar meu llms atual com link do perfil do git ou direto do repositorio. ou add ao llms atual os md correspondentes)
+## 💠 PS: Tentar usar em futuro projetinho
+  ### 🔹 Transcrição de docs do meu git pela  TrícIA (meu chatbot com IA). Como farei para encaixar blockchain nisso, ainda não faço ideia. (Posso só redirecionar meu llms atual com link do perfil do git ou direto do repositorios a serem lidos. ou add ao llms atual os md correspondentes) 
 
 ## 💠 Por fim, alguns módulos podem estar imcompletos:
-  ### 🔹Ou porque fiquei com preguiça de  documentar ou porque achei muito simples a ponto de só baixar o certificado, claro, após realizar testes dentro da plataforma Dio. (alguns testes implementei minha resolução conforme cada módulo) Como mencionado anteriormente, indico que busque por fontes alternativas para materiais mais completos em relação ao assunto.
+  ### 🔹Ou porque fiquei com preguiça de  documentar ou porque achei muito simples a ponto de só baixar o certificado, claro, após realizar testes dentro da plataforma Dio. (alguns testes implementei minha resolução conforme cada módulo) Como mencionado anteriormente, indico que busque por fontes alternativas para materiais mais completos em relação ao assunto. Obrigada de nada.
