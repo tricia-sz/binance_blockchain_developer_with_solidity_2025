@@ -3,9 +3,9 @@
 ### 💠 Há grandes chances de haver erros ortográficos, seja por falta de conhecimento, tesatentamento ou só pressa na hora de (tentar) transcrever alguns assustos abordados (em tempo real, ou sem dar muitas pausas durante explicação, alternando o idioma do teclado quando necessário). Quem sabe um dia, corrijo tudo.
 ### 💠 Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula, mas no final, vai ficar no cache do GPT e não na minha memória, então vamo como nas antiga. Doc na unha. 
 
-### 💠 Mentira, iria ser mais trabalhoso, mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas do que estudando o assunto de fato. 
+### 💠 Sem contar que seria mais trabalhoso,  mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
 
-## 💠 "Momento Ulha 👀":
+## 💠 Momento Ulha 👀:
   ###  🔹Está sendo legal praticar  solidity e MD (Markdown). Já que 98% dos LLMS são apenas aquivos md o qual as aPIs / websockets fazem leitura,interpretação e iteração. (fonte: vozes da minha cabeça) -- Verificar info depois.
 
 ## 💠 PS: Tentar usar em futuro projetinho.
