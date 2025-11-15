@@ -186,9 +186,9 @@ interface IERC20{
 
 ```
 
-## 2 - IMPLEMENTANDO AS FUNÇÕES LISTADAS NA INTERFACE PARA SEREM EXECUTADAS CONFORME O CONTRATO DA NOSSA MOEDA: TRICIACoin.
+## 💠 2 - IMPLEMENTANDO AS FUNÇÕES LISTADAS NA INTERFACE PARA SEREM EXECUTADAS CONFORME O CONTRATO DA NOSSA MOEDA: TRICIACoin.
 
-## 2.1 - Definindo os atributos / Campos da moeda. Onde:
+## 💠 2.1 - Definindo os atributos / Campos da moeda. Onde:
   - `string public constant name = "TRICIA Coin";` 🔹 Referece ao nome da moeda
   - `   string public constant symbol = "TRICIA";`🔹Simbolo da moeda
   - ` uint8 public constant decimals = 18;`🔹 Quantidade de casas decimais que a moeda terá
@@ -199,7 +199,7 @@ interface IERC20{
     uint8 public constant decimals = 18;
 }
 ```
-## 2.2 - Realizando o mapping que tem endereço que aponta para um balance. Basicamente mostrar o saldo do endereço.
+## 💠 2.2 - Realizando o mapping que tem endereço que aponta para um balance. Basicamente mostrar o saldo do endereço.
 ```js
     mapping (address => uint256) balances;
 
@@ -213,18 +213,18 @@ interface IERC20{
   mapping(address => mapping(address => uint256)) allowed;
 ```
 
-## 2.3 - Setando o suplicamento total de 10ETH
+## 💠2.3 - Setando o suplicamento total de 10ETH
 ```js
   uint256 totalSupply_ = 10 ether;
 ```
 
-## 2.4 - Criando o metodo cosntrutor para atribuir valores ao dono do contrato [sender] - endereço que publicou o contrato na blockchain
+## 💠 2.4 - Criando o metodo cosntrutor para atribuir valores ao dono do contrato [sender] - endereço que publicou o contrato na blockchain
 ```js
    balances[msg.sender] = totalSupply_;
 ```
 
 
-## 2.5 - AGORA SIM, VAMOS IMPLEMENTAR as funções da Interface usando a palavra reservada de sobrescrita do metodo: OVERRIDE.
+## 💠 2.5 - AGORA SIM, VAMOS IMPLEMENTAR as funções da Interface usando a palavra reservada de sobrescrita do metodo: OVERRIDE.
 
 ##  💠 Metodo que retorna total do saldo
 ```js
@@ -309,7 +309,7 @@ interface IERC20{
 
 ` return true;`🔹Retrono em caso de sucesso
 
-## Por fim, nosso codigo completo da Criação da moeda fica assim:
+## 💠 Por fim, nosso codigo completo da Criação da moeda fica assim:
 ```js
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -386,7 +386,7 @@ contract TRICIACoin is IERC20{
 
 }
 ```
-## 💠  COMPILANDO E DEPLOYANDO NOSSO CONTRATO
+## 💠 COMPILANDO E DEPLOYANDO NOSSO CONTRATO
  ### Compilando contrato
 ![compilando](img/compilando.png)
 
@@ -395,17 +395,17 @@ contract TRICIACoin is IERC20{
  ![deploy_contract_TRICIACoin](img/deploy_contract_TRICIACoin.png)
 
 
-### ao clicar em Deploy, irá direcionar para confirmação de transação no metamask, ao confirmar, valide no Ganash a treansação
+### 💠 Ao clicar em Deploy, irá direcionar para confirmação de transação no metamask, ao confirmar, valide no Ganash a treansação
  ![deploy](img/deploy.png)
 
-## No ganash, em  BLOCKS E TRANSACTIONS
+## 💠 No ganash, em  BLOCKS E TRANSACTIONS
 
 ![ganash_transactions_block](img/ganash_transactions_block.png)
 
 ![transacao_minerada](img/transacao_minerada.png)
 
 
-### INTERAGINDO COM O CONTRATO
+### 💠 INTERAGINDO COM O CONTRATO
 
    - Realize uma nova importação de carteira (privaty key no metamask conforme passos anteriores)
    - Ao importar carteira, faça conexão no remix
