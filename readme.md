@@ -6,27 +6,24 @@
 
 📊 **Podem haver divergências, lacunas ou simplificações**
 
-  
-  > 🔹 nos temas relacionados à tecnologia Blockchain. Caso queira se aprofundar, consulte documentações oficiais e outras fontes.
+>🔹   nos temas relacionados à tecnologia Blockchain. Caso queira se aprofundar, consulte documentações oficiais e outras fontes.
 
  📝 **Provavelmente haverá erros ortográficos** — (tem erros, muitos... Talvez, um dia, eu revise tudo.)
   
-  >  🔹seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
+> 🔹 seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
 
-  
-  > 🔹Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio.
+
+> 🔹 Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio.
 
 
  🤖  **Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula,**
-  
-  > mas no final, iria ficar no cache do GPT e não na minha memória, então vamo como nas antiga. **Doc na unha.**
+> 🔹mas no final, iria ficar no cache do GPT e não na minha memória, então vamo como nas antiga. **Doc na unha.**
 
 
 
 😫 **Sem contar que seria mais trabalhoso**,
 
-  > mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
-
+  >🔹 mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
 
 ## 👀 Momento Ulha
 
