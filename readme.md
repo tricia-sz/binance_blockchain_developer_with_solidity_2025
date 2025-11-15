@@ -32,7 +32,7 @@
 
 ## 👀 Momento Ulha
 
-> Está sendo divertido praticar **Solidity** e **Markdown**. Afinal, 98% dos LLMs nada mais são que arquivos `.md` / `.txt` que APIs e WebSockets leem, interpretam e manipulam. *(fonte: vozes da minha cabeça — 🔎 verificar depois)*
+> Está sendo divertido praticar **Solidity** e (voltar a praticar mais)**Markdown**. Afinal, 98% dos LLMs nada mais são que arquivos `.md` / `.txt` que APIs e WebSockets leem, interpretam e manipulam. *(fonte: vozes da minha cabeça — 🔎 verificar depois)*
 
 
 ## 📌 Ideia para Projetinho Futuro
