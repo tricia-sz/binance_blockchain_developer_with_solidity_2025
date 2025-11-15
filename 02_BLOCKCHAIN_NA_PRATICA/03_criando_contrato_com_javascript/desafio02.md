@@ -72,7 +72,6 @@ while ((linha = gets()) !== undefined && linha !== "") {
     } else if (partes[0] === "leader" && partes.length === 1) {
         print(contrato.leader());
     }
-    // Linhas inválidas são ignoradas
 }
 
 ```

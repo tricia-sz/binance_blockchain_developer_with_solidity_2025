@@ -23,49 +23,58 @@
   💡Nota: Este desafio utiliza JavaScript puro como linguagem de implementação, mas foi estruturado com conceitos inspirados no Solidity (linguagem de contratos inteligentes). O objetivo é exercitar o pensamento computacional e a lógica de programação através de uma abordagem didática que simula estruturas de blockchain, permitindo que você compreenda os fundamentos de contratos inteligentes sem a complexidade de frameworks específicos. Concentre-se na lógica e na resolução do problem
 
 ```js
-  // Estrutura básica da classe representando o contrato inteligente
 // IMPORTANTE: As funções "gets" e "print" são acessíveis globalmente e têm as seguintes funcionalidades:  
 // - "gets" : lê UMA linha com dados de entrada (inputs) do usuário;
 // - "print": imprime um texto de saída (output) e pula uma linha ("\n") automaticamente.
 
 // Estrutura básica da classe representando o contrato inteligente
-class SimpleVotingContract {
-    constructor() {
-        // Mapeia usuários votantes para evitar votos duplicados
-        this.voters = new Set();
-        // Contagem de votos por candidato
-        this.votes = { A: 0, B: 0 };
+class SmartContract {
+  constructor(remetente, destinatario, saldoRemetente, saldoDestinatario) {
+    this.remetente = remetente;
+    this.destinatario = destinatario;
+    this.saldo = {};
+    // Inicializa o saldo de cada usuário
+    this.saldo[remetente] = saldoRemetente;
+    this.saldo[destinatario] = saldoDestinatario;
+  }
+
+  // Processa a transferência conforme regras do contrato
+  transfer(valor) {
+    // TODO: Verifique se o saldo do remetente é suficiente antes de realizar a transferência
+    // Dica: Se o saldo for suficiente, atualize os saldos; caso contrário, não altere nada e retorne null
+    
+    if (this.saldo[this.remetente] < valor) {
+      return null;
     }
-    vote(usuario, candidato) {
-        // Verifica se o usuário já votou (um voto por usuário)
-        if (this.voters.has(usuario)) return;
-        // Aceita votos apenas para A ou B
-        if (candidato === "A" || candidato === "B") {
-            this.voters.add(usuario);
-            this.votes[candidato]++;
-        }
-    }
-    leader() {
-        // Retorna o líder: "A", "B" ou "Empate"
-        if (this.votes.A > this.votes.B) return "A";
-        if (this.votes.B > this.votes.A) return "B";
-        return "Empate";
-    }
+    // Atualiza os saldos
+    this.saldo[this.remetente] -= valor;
+    this.saldo[this.destinatario] += valor;
+
+    // Retorna os novos saldos
+    return [this.saldo[this.remetente], this.saldo[this.destinatario]];
+  
+  }
 }
 
-const contrato = new SimpleVotingContract();
+// Leitura e extração dos dados de entrada
+const linha = gets();
+const [remetente, destinatario, valorStr, saldoRemStr, saldoDestStr] = linha.trim().split(' ');
 
-// Processa comandos da entrada até que não haja mais linhas
-let linha;
-while ((linha = gets()) !== undefined && linha !== "") {
-    const partes = linha.trim().split(" ");
-    if (partes[0] === "vote" && partes.length === 3) {
-        // TODO resolvido:
-        const usuario = partes[1];
-        const candidato = partes[2];
-        contrato.vote(usuario, candidato);
-    } else if (partes[0] === "leader" && partes.length === 1) {
-        print(contrato.leader());
-    }
+// Converte as entradas para tipos numéricos (inteiros)
+const valor = parseInt(valorStr, 10);
+const saldoRemetente = parseInt(saldoRemStr, 10);
+const saldoDestinatario = parseInt(saldoDestStr, 10);
+
+// Instancia o contrato inteligente com os dados iniciais
+const contrato = new SmartContract(remetente, destinatario, saldoRemetente, saldoDestinatario);
+
+// Tenta realizar a transferência e armazena o resultado
+const resultado = contrato.transfer(valor);
+
+// Exibe a saída conforme especificação
+if (resultado !== null) {
+  print(`${resultado[0]} ${resultado[1]}`);
+} else {
+  print("Saldo insuficiente");
 }
 ```

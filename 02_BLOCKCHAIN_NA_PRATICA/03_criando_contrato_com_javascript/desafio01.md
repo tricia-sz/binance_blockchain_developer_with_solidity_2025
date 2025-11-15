@@ -33,6 +33,11 @@
 // - "print": imprime um texto de saída (output) e pula uma linha ("\n") automaticamente.
 
 // Classe que representa uma transação simples entre dois participantes
+// IMPORTANTE: As funções "gets" e "print" são acessíveis globalmente e têm as seguintes funcionalidades:  
+// - "gets" : lê UMA linha com dados de entrada (inputs) do usuário;
+// - "print": imprime um texto de saída (output) e pula uma linha ("\n") automaticamente.
+
+// Classe que representa uma transação simples entre dois participantes
 class BlocoDaTransacao {
   constructor(remetente, destinatario, valor) {
     this.remetente = remetente;
@@ -59,10 +64,14 @@ const camposInvalidos =
     campo => typeof campo !== 'string' || campo.trim() === ''
   );
 
+
 if (camposInvalidos) {
   print('transacao_invalida');
 } else {
+  // Criando instância do bloco da transação
   const bloco = new BlocoDaTransacao(remetente, destinatario, valor);
+
+  // Imprimir string formatada
   print(bloco.toString());
 }
   ```
