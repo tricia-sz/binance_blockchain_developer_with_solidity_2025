@@ -37,7 +37,9 @@
 
 ## 📌 Ideia para Projetinho Futuro
 
- >  Criar um sistema de **transcrição automática de docs do meu Git**, usando a *TrícIA*, meu chatbot com IA. Como blockchain vai entrar nisso? **Nenhuma ideia ainda.** Talvez só redirecionar o LLM atual para os links do GitHub, ou anexar os `.md` relevantes diretamente no modelo.
+ > Implementar a **transcrição automática de repos do meu perfil do Git**, usando a *TrícIA Assistent*, chatbot com IA implementado em meu portfólio para quando forem realizadas perguntas de escopor técnico.
+
+ > Como blockchain vai entrar nisso? **Ainda não faço ideia.** Talvez só redirecionar o LLM atual para os links do GitHub, ou anexar os `.md` relevantes diretamente no modelo.
 
 
 ## 🔧 Sobre os Módulos
