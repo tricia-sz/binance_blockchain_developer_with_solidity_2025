@@ -29,7 +29,7 @@
 
 > 🔹mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
 
----
+
 ## 👀 Momento Ulha
 
 > Está sendo divertido praticar **Solidity** e **Markdown**. Afinal, 98% dos LLMs nada mais são que arquivos `.md` / `.txt` que APIs e WebSockets leem, interpretam e manipulam. *(fonte: vozes da minha cabeça — 🔎 verificar depois)*
