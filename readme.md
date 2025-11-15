@@ -1,4 +1,4 @@
-#  💠 Notas Pessoais do Bootcamp DIO + Binance (2025)
+#  💠 Notas Pessoais do Bootcamp DIO + Binance(2025)
 
 > ⚠️ Estes materiais são apenas para  entendimento pessoal e fixação de conteúdo. O conteúdo original é repassado por profissionais da Dio e Binance
 
