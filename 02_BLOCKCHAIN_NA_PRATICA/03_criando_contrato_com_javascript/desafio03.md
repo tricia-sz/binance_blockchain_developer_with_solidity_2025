@@ -24,53 +24,48 @@
 
 ```js
   // Estrutura básica da classe representando o contrato inteligente
-class SmartContract {
-  constructor(remetente, destinatario, saldoRemetente, saldoDestinatario) {
-    this.remetente = remetente;
-    this.destinatario = destinatario;
-    this.saldo = {};
-    // Inicializa o saldo de cada usuário
-    this.saldo[remetente] = saldoRemetente;
-    this.saldo[destinatario] = saldoDestinatario;
-  }
+// IMPORTANTE: As funções "gets" e "print" são acessíveis globalmente e têm as seguintes funcionalidades:  
+// - "gets" : lê UMA linha com dados de entrada (inputs) do usuário;
+// - "print": imprime um texto de saída (output) e pula uma linha ("\n") automaticamente.
 
-  // Processa a transferência conforme regras do contrato
-  transfer(valor) {
-    // TODO resolvido:
-    const saldoR = this.saldo[this.remetente];
-
-    if (saldoR < valor) {
-      return null; // Saldo insuficiente → transação rejeitada
+// Estrutura básica da classe representando o contrato inteligente
+class SimpleVotingContract {
+    constructor() {
+        // Mapeia usuários votantes para evitar votos duplicados
+        this.voters = new Set();
+        // Contagem de votos por candidato
+        this.votes = { A: 0, B: 0 };
     }
-
-    // Atualiza saldos
-    this.saldo[this.remetente] -= valor;
-    this.saldo[this.destinatario] += valor;
-
-    // Retorna saldos atualizados
-    return [this.saldo[this.remetente], this.saldo[this.destinatario]];
-  }
+    vote(usuario, candidato) {
+        // Verifica se o usuário já votou (um voto por usuário)
+        if (this.voters.has(usuario)) return;
+        // Aceita votos apenas para A ou B
+        if (candidato === "A" || candidato === "B") {
+            this.voters.add(usuario);
+            this.votes[candidato]++;
+        }
+    }
+    leader() {
+        // Retorna o líder: "A", "B" ou "Empate"
+        if (this.votes.A > this.votes.B) return "A";
+        if (this.votes.B > this.votes.A) return "B";
+        return "Empate";
+    }
 }
 
-// Leitura e extração dos dados de entrada
-const linha = gets();
-const [remetente, destinatario, valorStr, saldoRemStr, saldoDestStr] = linha.trim().split(' ');
+const contrato = new SimpleVotingContract();
 
-// Converte as entradas para tipos numéricos (inteiros)
-const valor = parseInt(valorStr, 10);
-const saldoRemetente = parseInt(saldoRemStr, 10);
-const saldoDestinatario = parseInt(saldoDestStr, 10);
-
-// Instancia o contrato inteligente com os dados iniciais
-const contrato = new SmartContract(remetente, destinatario, saldoRemetente, saldoDestinatario);
-
-// Tenta realizar a transferência e armazena o resultado
-const resultado = contrato.transfer(valor);
-
-// Exibe a saída conforme especificação
-if (resultado !== null) {
-  print(`${resultado[0]} ${resultado[1]}`);
-} else {
-  print("Saldo insuficiente");
+// Processa comandos da entrada até que não haja mais linhas
+let linha;
+while ((linha = gets()) !== undefined && linha !== "") {
+    const partes = linha.trim().split(" ");
+    if (partes[0] === "vote" && partes.length === 3) {
+        // TODO resolvido:
+        const usuario = partes[1];
+        const candidato = partes[2];
+        contrato.vote(usuario, candidato);
+    } else if (partes[0] === "leader" && partes.length === 1) {
+        print(contrato.leader());
+    }
 }
 ```
