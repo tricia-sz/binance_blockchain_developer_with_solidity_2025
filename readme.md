@@ -1,15 +1,40 @@
-## 💠 Este material (anotações) é somente para entendimento pessoal e fixação de conteúdo repassado por profissionais da  Dio e Binance no Bootcamp de 2025.
-###  💠 Podem haver divergências ou lacunas em alguns assustos em relação a tecnologia Blockchain. Caso tenha  interesse em se aprofundar, recomendo verificar documentações oficiais e outras fontes.
-### 💠 Há grandes chances de haver erros ortográficos, seja por falta de conhecimento, tesatentamento ou só pressa na hora de (tentar) transcrever alguns assustos abordados (em tempo real, ou sem dar muitas pausas durante explicação, alternando o idioma do teclado quando necessário). Quem sabe um dia, corrijo tudo.
-### 💠 Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula, mas no final, vai ficar no cache do GPT e não na minha memória, então vamo como nas antiga. Doc na unha. 
+# 💠 Notas Pessoais do Bootcamp DIO + Binance (2025)
 
-### 💠 Sem contar que seria mais trabalhoso,  mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
+> **Este material (anotações) é somente para entendimento pessoal e fixação de conteúdo repassado por profissionais da Dio e Binance no Bootcamp de 2025.**
 
-## 💠 Momento Ulha 👀:
-  ###  🔹Está sendo legal praticar  solidity e MD (Markdown). Já que 98% dos LLMS são apenas aquivos md / (txt) o qual as aPIs / websockets fazem leitura,interpretação e iteração. (fonte: vozes da minha cabeça) -- Verificar info depois.
+---
 
-## 💠 PS: Tentar usar em futuro projetinho
-  ### 🔹 Transcrição de docs do meu git pela  TrícIA (meu chatbot com IA). Como farei para encaixar blockchain nisso, ainda não faço ideia. (Posso só redirecionar meu llms atual com link do perfil do git ou direto do repositorios a serem lidos. ou add ao llms atual os md correspondentes) 
+## 💬 Observações Importantes
 
-## 💠 Por fim, alguns módulos podem estar imcompletos:
-  ### 🔹Ou porque fiquei com preguiça de  documentar ou porque achei muito simples a ponto de só baixar o certificado, claro, após realizar testes dentro da plataforma Dio. (alguns testes implementei minha resolução conforme cada módulo) Como mencionado anteriormente, indico que busque por fontes alternativas para materiais mais completos em relação ao assunto. Obrigada de nada.
+* 💠 **Podem haver divergências, lacunas ou simplificações** nos temas relacionados à tecnologia Blockchain. Se quiser se aprofundar, consulte documentações oficiais e outras fontes.
+
+* 💠 **Provavelmente haverá erros ortográficos** — (tem erros, muitos)seja por falta de conhecimento, distração, pressa ou troca de layout de teclado durante a transcrição em tempo real. Talvez, um dia, eu revise tudo.
+
+* 💠 **Sim, eu poderia pedir para o GPT formatar tudo e me entregar um resumo lindo**, mas isso ficaria na memória da IA, não na minha. Então vamos no modo raiz: **doc na unha**.
+
+* 💠 No fim das contas, pedir ajuda da IA para formatar tudo acabaria dando mais trabalho: teria que revisar erros superficiais, ajustar formatação, e isso roubaria tempo de estudo. Prefiro aprender fazendo.
+
+---
+
+## 👀 Momento Ulha
+
+* 🔹 Está sendo divertido praticar **Solidity** e **Markdown**. Afinal, 98% dos LLMs nada mais são que arquivos `.md` / `.txt` que APIs e WebSockets leem, interpretam e manipulam. *(fonte: vozes da minha cabeça — verificar depois)*
+
+---
+
+## 📌 Ideia para Projetinho Futuro
+
+* 🔹 Criar um sistema de **transcrição automática de docs do meu Git**, usando a *TrícIA*, meu chatbot com IA. Como blockchain vai entrar nisso? **Nenhuma ideia ainda.** Talvez só redirecionar o LLM atual para os links do GitHub, ou anexar os `.md` relevantes diretamente no modelo.
+
+---
+
+## 🔧 Sobre os Módulos
+
+* 🔹 Alguns módulos podem estar incompletos:
+
+  * Por preguiça ocasional de documentar;
+  * Ou por serem simples o suficiente ao ponto de só precisar baixar o certificado (claro, após realizar os testes, alguns dos quais fiz com minhas próprias implementações).
+
+* Como dito antes: **Consulte outras fontes se quiser materiais realmente completos.** Obrigada de nada. 😉
+
+---
