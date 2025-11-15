@@ -2,29 +2,34 @@
 
 > ⚠️ Estes materiais são apenas para  entendimento pessoal e fixação de conteúdo. O conteúdo original é repassado por profissionais da Dio e Binance
 
+
 ## 💬 Observações Importantes
 
-📊 **Podem haver divergências, lacunas ou simplificações**
+> ### 📊 **Podem haver divergências, lacunas ou simplificações**
 
->🔹   nos temas relacionados à tecnologia Blockchain. Caso queira se aprofundar, consulte documentações oficiais e outras fontes.
-
- 📝 **Provavelmente haverá erros ortográficos** — (tem erros, muitos... Talvez, um dia, eu revise tudo.)
-  
-> 🔹 seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
+>🔹 nos temas relacionados à tecnologia Blockchain. Caso queira se aprofundar, consulte documentações oficiais e outras fontes.
 
 
-> 🔹 Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio.
+> ### 📝 **Provavelmente haverá erros ortográficos** — (tem erros, muitos...)
 
-
- 🤖  **Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula,**
-> 🔹mas no final, iria ficar no cache do GPT e não na minha memória, então vamo como nas antiga. **Doc na unha.**
+   >🔹 seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
+    
+    
+    
+   >🔹 Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio. Talvez, um dia, eu revise tudo.
 
 
 
-😫 **Sem contar que seria mais trabalhoso**,
+> ### 🤖 **Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula,**
 
-  >🔹 mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
+>🔹 mas no final, iria ficar no cache do GPT e não na minha memória, então vamo como nas antiga. Doc. na unha.
 
+
+> ### 😫 **Sem contar que seria mais trabalhoso**,  
+
+> 🔹mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
+
+---
 ## 👀 Momento Ulha
 
 > Está sendo divertido praticar **Solidity** e **Markdown**. Afinal, 98% dos LLMs nada mais são que arquivos `.md` / `.txt` que APIs e WebSockets leem, interpretam e manipulam. *(fonte: vozes da minha cabeça — 🔎 verificar depois)*
