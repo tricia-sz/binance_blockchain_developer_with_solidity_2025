@@ -1,18 +1,26 @@
-# 💠 Notas Pessoais do Bootcamp DIO + Binance (2025)
+#  💠 Notas Pessoais do Bootcamp DIO + Binance (2025)
 
-> **Este material (anotações) é somente para entendimento pessoal e fixação de conteúdo repassado por profissionais da Dio e Binance no Bootcamp de 2025.**
+### ⚠️ Este material (anotações) são apenas para  entendimento pessoal e fixação de conteúdo. O conteúdo original é repassado por profissionais da Dio e Binance
 
 ---
 
 ## 💬 Observações Importantes
 
-* 💠 **Podem haver divergências, lacunas ou simplificações** nos temas relacionados à tecnologia Blockchain. Se quiser se aprofundar, consulte documentações oficiais e outras fontes.
+  💠  **Podem haver divergências, lacunas ou simplificações**
+  
+  >🔹 nos temas relacionados à tecnologia Blockchain. Caso queira se aprofundar, consulte documentações oficiais e outras fontes.
 
-* 💠 **Provavelmente haverá erros ortográficos** — (tem erros, muitos)seja por falta de conhecimento, distração, pressa ou troca de layout de teclado durante a transcrição em tempo real. Talvez, um dia, eu revise tudo.
+💠 **Provavelmente haverá erros ortográficos** — (tem erros, muitos... )
+  
+  >🔹 seja por falta de conhecimento, desatentamento, pressa ou troca de layout de teclado durante a transcrição, por não querer pausar o video. Talvez, um dia, eu revise tudo.
 
-* 💠 **Sim, eu poderia pedir para o GPT formatar tudo e me entregar um resumo lindo**, mas isso ficaria na memória da IA, não na minha. Então vamos no modo raiz: **doc na unha**.
+💠**Seria confortável jogar no GPT e pedir para formatar tudo e só me gerar o resumo md da aula,**
+  
+  >🔹 mas no final, iria ficar no cache do GPT e não na minha memória, então vamo como nas antiga. **Doc na unha.**
 
-* 💠 No fim das contas, pedir ajuda da IA para formatar tudo acabaria dando mais trabalho: teria que revisar erros superficiais, ajustar formatação, e isso roubaria tempo de estudo. Prefiro aprender fazendo.
+💠 **Sem contar que seria mais trabalhoso**,
+
+  >🔹 mesmo que no final só copiasse e colasse, iria perder mais tempo formatando coisas ou corrigindo erros superficiais gerados pela ferramenta ao invés de fato, fixar o assunto.
 
 ---
 
