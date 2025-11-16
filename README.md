@@ -59,3 +59,28 @@
  > - Como dito antes: **Consulte outras fontes se quiser materiais realmente completos.**
 
 > **Obrigada de nada.** 😉
+---
+
+# 📥 CLONANDO O REPORSITORIO 
+
+<div align="center">
+<div data-badges>
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> 
+</div>
+</div>
+
+### Execução:
+
+1. Clone este repositório. em seu terminal executar (SSH tem que estar cconfigurada:
+
+```sh
+git clone git@github.com:tricia-sz/binance_blockchain_developer_with_solidity_2025.git
+```
+
+2. Acesse o diretório do projeto:
+
+```sh
+ cd binance_blockchain_developer_with_solidity_2025
+```
+
+3. Navegue entre as pastas e faça as alterações que desejar.
