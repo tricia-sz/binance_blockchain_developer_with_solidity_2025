@@ -43,3 +43,7 @@
   🔹 Exemplo: Arte digital, cards, colecionaveis, musica, objeto raros, itens de jogos, imóveis. etc.
 
   🔹 É parecido à escritura de uma casa, no entanto, o NFT seria a escritura não imovel em si.
+
+  🔹 É possivel tokenizar ativos do mundo real, como propriedade, documentação, licenças ; historico medicos, certições de nascimento e obto.No entando, os desenvolvimentos nesta categoria ainda estao em um estagio inicial e seus casos de uso sao relativamente raos.
+
+  🔹 Mas a medida que os NFTs continuam a se desenvolver e expandir, quem pode dizer que um dia (talvez em breve) voce nao será capaz de possuir um lote de terreno em outro pais a milhares de km de distancia em sua carteira.
