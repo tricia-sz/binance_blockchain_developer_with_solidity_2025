@@ -39,6 +39,21 @@
 
   🔹 A web3 também representa um retorno aos protocolos de codigo aberto que nao podem ser alterados ou manipulados de acordo com as regras de empresas centralizadas como Google, Apple e as demais.
 
+   🔹 O que diferebcua a Web3 das duas eras anteriores é a propriedade, é habilitada por tokens, que sao a unidade fundamental de valor nas economias baseadas em cripto.
 
+   🔹Formas de conexão 
+
+      - Web1: login e senha. 
+      - Web2: Auth com google, github, e outros providers. 
+      - Web3: connect Wallet
+
+### 💠 O que engloba a WEB3?
+  - Blockchain
+  - Cirptomoedas
+  - Tokens
+  - DeFi (Descentralized Finance)
+  - DAO (Descentralized Autonomous Organization)
+  - NFT (Non Fugible Token)
+  - Metaverso
 
 
