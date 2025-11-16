@@ -76,3 +76,5 @@ git clone git@github.com:tricia-sz/binance_blockchain_developer_with_solidity_20
 ```sh
  cd binance_blockchain_developer_with_solidity_2025
 ```
+### Link do repo direto no git:
+https://github.com/tricia-sz/binance_blockchain_developer_with_solidity_2025
