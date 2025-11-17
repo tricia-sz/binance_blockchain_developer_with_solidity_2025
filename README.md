@@ -12,11 +12,11 @@
 
 > ### 📝 **Provavelmente haverá erros ortográficos** — (tem erros, muitos...)
 
-   >🔹 seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
-    
-    
-    
-   >🔹 Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio. Talvez, um dia, eu revise tudo.
+  >🔹 seja por falta de conhecimento, desatentamento, cansaço, pressa, ou algum incidente ao trocar o layout de teclado durante a digitação nivel flash.
+  
+  
+  
+  >🔹 Pode haver resquícios de "deslexia digital" (acabei de inventar isso), por fim, alternar letras próximas (m n b v) por não querer pausar o video para não impactar a linha de racíocinio. Talvez, um dia, eu revise tudo.
 
 
 
