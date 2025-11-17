@@ -58,11 +58,11 @@
 
  > - Como dito antes: **Consulte outras fontes se quiser materiais realmente completos.**
 
-> **Obrigada de nada.** 😉
+ **Obrigada de nada.** 😉
 ---
-      OBS: As opções abaixo é para quem chegou nessa nessa apresentação de projeto através do meu Portifolio.
+> OBS: As opções abaixo é para quem chegou nessa nessa apresentação de projeto através do meu Portifolio.
 
-# 📥 CLONANDO O REPORSITÒRIO 
+# 📥 Clonando Repositório:
 
 ### Execução:
 
@@ -80,5 +80,5 @@ git clone git@github.com:tricia-sz/binance_blockchain_developer_with_solidity_20
 ### Link do repo direto no git:
 https://github.com/tricia-sz/binance_blockchain_developer_with_solidity_2025
 
-## Certificado do Treinamento:
+## Certificado de Conclusão do Treinamento:
 ![Certificado de cocnlusao do Treinamento](/03_WEB3_e_MONANCE_MODELOS_DESCENTRALIZADOS/05_DeFi_descentralized-finance/assets/Certificado_Binance_Blockchain_Developer_With_Solidity_2025.png)
