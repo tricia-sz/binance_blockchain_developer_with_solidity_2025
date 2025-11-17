@@ -60,7 +60,7 @@
 
  **Obrigada de nada.** 😉
 ---
-> OBS: As opções abaixo é para quem chegou nessa nessa apresentação de projeto através do meu Portifolio.
+> OBS: As opções abaixo é para quem chegou nessa nessa apresentação de projeto através do meu Portfolio.
 
 # 📥 Clonando Repositório:
 
